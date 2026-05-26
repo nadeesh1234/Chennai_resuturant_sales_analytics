@@ -157,6 +157,6 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ---
 
 ## 👤 Author
-**[Your Full Name]**
-[Your LinkedIn URL]
-[Your Email]
+**[Nadeesh AP]**
+[www.linkedin.com/in/nadeesh-ap-977773387]
+[nadeeshparthiban@gmail.com]
